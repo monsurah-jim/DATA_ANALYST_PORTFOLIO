@@ -6,3 +6,4 @@ I am a data analyst with experience in using various tools and technologies to c
 
 In this portfolio,i have included few power bi projects that showcasemy data anayltics skills. You will links of the dashboardsand reports i have created using power bi. These project demonstrate my ability to analyze and present data in a clear and visually appealing ways,making it easy for decision makers to understand the insights and take actions.
 
+In addition to my critical thinking,problem solving abilities and technical skills, i am able to approach data analysis with strategic mindset, and to identify key issues and opportunities in the data.
