@@ -8,6 +8,8 @@ In this portfolio,i have included few power bi projects that showcasemy data ana
 
 In addition to my critical thinking,problem solving abilities and technical skills, i am able to approach data analysis with strategic mindset, and to identify key issues and opportunities in the data.
 
+Here is the link to my power bi projects
+
 ##https://www.novypro.com/profile_projects/monsurahjimoh
 
 
